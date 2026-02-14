@@ -133,7 +133,7 @@
     <polyline points="5,199 5,215 21,215" fill="none" stroke="#64748b" stroke-width="1.5"/>
     <polyline points="829,215 845,215 845,199" fill="none" stroke="#64748b" stroke-width="1.5"/>
   </g>
-  <text x="30" y="38" fill="#64748b" font-size="11" font-family="monospace" letter-spacing="3">Projetos Públicos</text>
+  <text x="30" y="38" fill="#64748b" font-size="11" font-family="monospace" letter-spacing="3">Projetos Publicos</text>
   <circle cx="218" cy="34" r="3" fill="#00d4ff" opacity="0.8"><animate attributeName="opacity" values="0.4;1;0.4" dur="2s" repeatCount="indefinite"/></circle>
   <text x="820" y="38" fill="#64748b" font-size="10" font-family="monospace" text-anchor="end" opacity="0.5">SYS 3/3 ONLINE</text>
 
